@@ -1,5 +1,5 @@
 print("hallo-world")
-print("how r u?")
-print("testing")
-print("hallo-world")
+print("i am fine")
+print("demo")
+print("dummy")
 print("something")
